@@ -10,7 +10,7 @@ revealOptions:
 ### ITSE-1402 Intermediate Python
 <span style="font-family:Helvetica Neue; font-weight:bold; color:#e49436">Class 4: Chapter 10: Lists</span>
 <br /><br />
-##### [https://z3r0.tech/slides-4](https://z3r0.tech/slides-4)
+##### [https://coder.run/1402-class4](https://coder.run/1402-class4)
 
 -----
 
@@ -18,7 +18,7 @@ revealOptions:
 
 +++++
 
-[https://z3r0.tech/1402-chap10](https://z3r0.tech/1402-chap10)
+[https://coder.run/1402-chap10](https://coder.run/1402-chap10)
 
 +++++
 
