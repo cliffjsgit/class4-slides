@@ -586,4 +586,4 @@ print(rest)
 
 +++++
 
-Exercise 10.11 and 10.12 are homework. 10.8 is Extra Credit.
+Exercise 10.11 and 10.12 are homework.
