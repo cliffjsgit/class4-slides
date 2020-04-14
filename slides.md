@@ -129,7 +129,7 @@ print(a[3][1])
 
 +++++
 
-There are also two operations you can do to lists. Add and multiply.
+There are also two operations you can do to lists. Add and multiply (concatenate and Replicate):
 
 ```python
 a = [1,2,3]
