@@ -29,7 +29,7 @@ a = "this is a string of characters"
 ```
 +++++
 
-Whereas a list can be anything and starts with a '[' and ends with a '[]':
+Whereas a list can be anything and starts with a '[' and ends with a ']':
 
 ```python
 a = ['a', list, 0, ['any','little','thing'], you[0], can["think"], "of", True]
