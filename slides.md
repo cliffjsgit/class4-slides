@@ -129,7 +129,7 @@ print(a[3][1])
 
 +++++
 
-There are also two operations you can do to lists. Add and multiply (Concatenate and Replicate):
+There are also two operations you can do to lists. Add and multiply (concatenate and replicate):
 
 ```python
 a = [1,2,3]
@@ -185,11 +185,6 @@ y = t.sort()
 
 # Exercise 10.5
 #
-# Grading Guidelines:
-# - No answer variable is needed. Grading script will call function.
-# - Function "is_sorted" should return True if list is sorted ascending
-# or False if otherwise.
-#
 # 1. Write a function called is_sorted that takes a list as a parameter and 
 # returns True if the list is sorted in ascending order and False otherwise. 
 # For example:
@@ -209,11 +204,6 @@ y = t.sort()
 
 # Exercise 10.6
 #
-# Grading Guidelines:
-# - No answer variable is needed. Grading script will call function.
-# - Function "is_anagram" should return True if a word is an anagram
-# or False if not.
-#
 # 1. Two words are anagrams if you can re-arrange the letters from one to spell
 # the other. Write a function "is_anagram" that takes two strings and returns
 # True if they are anagrams. 
@@ -227,11 +217,6 @@ y = t.sort()
 #!/usr/bin/env python3
 
 # Exercise 10.7
-#
-# Grading Guidelines:
-# - No answer variable is needed. Grading script will call function.
-# - Function "has_duplicates" should return True if a list has duplicates
-# or False if not.
 #
 # 1. Write a function called has_duplicates that takes a list and returns True
 # if there is any element that appears more than once. It should not modify the
@@ -248,9 +233,6 @@ y = t.sort()
 # Exercise 10.9
 #
 # Grading Guidelines:
-# - No answer variable is needed. Grading script will call function.
-# - Function "version1" and "version2" should both return a list with all words
-# in words.txt
 # 
 # 1. Write a function named "version1" that reads the file words.txt 
 # and builds a list with one element per word. Write a second version
@@ -300,12 +282,6 @@ An operation that reduces multiple list items to a single item us sometimes call
 
 # Exercise 10.1
 #
-#
-# Grading Guidelines:
-# - No answer variable is needed. Grading script will call function.
-# - Function "nested_sum" should output a integer that is a sum of all integers
-# in the nested lists.
-#
 # 1. Write a function called nested_sum that takes a list of lists of integers 
 # and adds up the elements from all of the nested lists. For example:
 #
@@ -338,11 +314,6 @@ This could be called a map as well because it maps the .capitalize method on eac
 
 # Exercise 10.2
 #
-# Grading Guidelines:
-# - No answer variable is needed. Grading script will call function.
-# - Function "cum_sum" should output a list of integers that is a stepping 
-# cumlative sum of all integers in the nested lists.
-#
 # 1. Write a function called cum_sum that takes a list of numbers and returns the
 # cumulative sum; that is, a new list where the ith element is the sum of the 
 # first i + 1 elements from the original list. For example:
@@ -360,10 +331,6 @@ This could be called a map as well because it maps the .capitalize method on eac
 #!/usr/bin/env python3
 
 # Exercise 10.3
-#
-# Grading Guidelines:
-# - No answer variable is needed. Grading script will call function.
-# - Function "middle" should output all list elements, but first and last. 
 #
 # 1. Write a function called middle that takes a list and returns a new list 
 # that contains all but the first and last elements. For example:
@@ -414,10 +381,6 @@ del t[1:5]
 #!/usr/bin/env python3
 
 # Exercise 10.4
-#
-# Grading Guidelines:
-# - No answer variable is needed. Grading script will call function.
-# - Function "chop" should remove first and last element in-place. 
 #
 # 1. Write a function called chop that takes a list, modifies it by removing the
 # first and last elements, and returns None. For example:
@@ -556,11 +519,6 @@ print(rest)
 #!/usr/bin/env python3
 
 # Exercise 10.10
-#
-# Grading Guidelines:
-# - No answer variable is needed. Grading script will call function.
-# - Function "in_bisect" should return the index in list where the word was
-# found
 # 
 # 1. To check whether a word is in the word list, you could use the in operator,
 # but it would be slow because it searches through the words in order. Because 
