@@ -72,7 +72,8 @@ otherSecondNum = numbers.pop(1)
 ```
 
 Note:
-Meaning they can be changed vs an immutable object which cannot.
+Meaning muttable objects can be changed in place after assignment or initialization, while an immutable object cannot.
+Examples of immutable data types or objects or variables in Python are numbers (integers, floats), strings and tuples.
 We can start with a pretty normal list of numbers. Lets say we only wanted the second one.
 We then can remove the number by redefining the list, but there is a better way to do this. 
 Pop is the method to do this. It removes it from the list and assigns it to what you choose.
