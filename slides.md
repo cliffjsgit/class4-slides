@@ -18,10 +18,6 @@ revealOptions:
 
 +++++
 
-[https://bit.ly/1402-chap10](https://bit.ly/1402-chap10)
-
-+++++
-
 A list in python is similar to a string. It's a sequence of values. 
 
 +++++
