@@ -65,7 +65,7 @@ Lists in python are mutable and you can do all kinds of odd things with them bec
 
 ```python
 numbers = [1,2,3]
-secondNum = number[1]
+secondNum = numbers[1]
 numbers = [numbers[0],numbers[2]]
 otherSecondNum = numbers.pop(1)
 # numbers = [1]
